@@ -9,3 +9,10 @@ Há cenários onde mais de um critério pode ser o melhor. Veja um exemplo:
 Quantidade 20 > A: 12.5; B: 12.5; C: 14.5 > Melhor(es) Critério(s): A e B
 O algoritmo portanto deve dizer ao final qual(quais) o(s) MELHOR(ES) CRITÉRIO(S).
 ESTA ATIVIDADE VALE 5 PONTOS! ENTREGA ATÉ DIA 31/10 (PRORROGADO PARA 02/12) ÀS 23H59.
+
+<p align="center">
+  <img src="TELA 01.png" alt="print" >
+</p>
+<p align="center">
+  <img src="TELA 02.png" alt="print" >
+</p>
